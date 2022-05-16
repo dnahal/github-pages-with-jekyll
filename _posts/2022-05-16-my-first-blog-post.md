@@ -1,5 +1,5 @@
 ---
-title: "good song"
+title: "good-song"
 date: 2022-5-16
 ---
 As he came into the window
