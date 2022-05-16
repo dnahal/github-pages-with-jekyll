@@ -1,6 +1,6 @@
 ---
 title: "good-song"
-date: 2022-5-16
+date: 2022-05-16
 ---
 As he came into the window
 Was the sound of a crescendo
